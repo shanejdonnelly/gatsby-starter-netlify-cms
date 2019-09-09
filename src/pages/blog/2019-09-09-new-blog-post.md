@@ -6,6 +6,6 @@ description: My description does what exactly?
 featuredpost: true
 featuredimage: /img/scooby.jpg
 tags:
-  - nothing tag
+  - flavor
 ---
 Here is the body of my post.
